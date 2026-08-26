@@ -24,13 +24,6 @@ Trabalho principalmente com **Java/Spring Boot** e **React** no backend/frontend
 - Integrações backend em ambiente ERP: migrações de API, automações de atendimento, soluções de UI para dados sensíveis
 - Explorando arquitetura hexagonal e boas práticas de design em Java
 
----
-
-### 📚 Estudando
-
-- Arquitetura de software (hexagonal, DDD)
-- Matemática discreta
-- Sistemas embarcados / IoT (C, microcontroladores)
 
 ---
 
