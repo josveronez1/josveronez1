@@ -10,7 +10,7 @@
 ### 🛠️ Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,react,vue,spring,postgres,docker,nodejs,html,css,py,cpp" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,react,vue,spring,postgres,docker,nodejs,html,css,py" />
 </p>
 
 Trabalho principalmente com **Java/Spring Boot** e **React** no backend/frontend, **PostgreSQL** como banco padrão, e **Docker** pra empacotar e subir tudo. Também transito por integrações de sistemas corporativos (ERPs), APIs REST e automações.
