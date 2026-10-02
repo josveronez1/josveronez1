@@ -39,15 +39,11 @@ Desenvolvedor e estudante de Ciência da Computação. Trabalho com integraçõe
 - 🏛️ **Plataforma de gestão de garantias e alienação fiduciária:** monólito modular em Java/Spring Boot + React + PostgreSQL, com DDD, multi-tenancy, Spring Security, máquina de estados em 8 fases e análise de documentos com IA
 - 🖧 **Servidor próprio (jv-server):** Ubuntu Server do zero, com hardening de SSH, rede Docker, reverse proxy com Caddy, Portainer e dashboard, para hospedar meus projetos sem depender de cloud
 - 🧩 **Veronez Tech:** site institucional multi-página e portfólio de soluções para empresas de serviços profissionais
-- 🎨 **SaaS de renders arquitetônicos com IA:** canvas estilo whiteboard, onde cada render gerado vira um nó conectado à imagem de origem. Backend próprio com Express
-- 📚 **Roadmap Java/Spring Boot:** estudando coleções, SQL, Spring core, testes e arquitetura hexagonal, com um tracker próprio em Node.js para acompanhar o progresso
 
 ---
 
 ### 🎥 Fora do código
 
-- YouTube: **Construindo coisas (in)úteis**
-- Projeto automotivo: **Camel Garage**
 - Treino e corrida, na linha *hybrid athlete programmer* 🏃‍♂️
 
 ---
