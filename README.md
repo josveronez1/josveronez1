@@ -2,7 +2,7 @@
 <h3 align="center">Backend-leaning full stack dev 🖥️</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Java+%2F+Spring+Boot+%2F+React+%2F+PostgreSQL;Sistemas+de+integra%C3%A7%C3%A3o+e+APIs;Self-hosting+em+servidor+pr%C3%B3prio;Sempre+quebrando+algo+em+dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Java+%2F+Spring+Boot+%2F+React+%2F+PostgreSQL;Sistemas+de+integra%C3%A7%C3%A3o+e+APIs;Self-hosting+em+servidor+pr%C3%B3prio" alt="Typing SVG" />
 </p>
 
 ---
