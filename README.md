@@ -42,12 +42,6 @@ Desenvolvedor e estudante de Ciência da Computação. Trabalho com integraçõe
 
 ---
 
-### 🎥 Fora do código
-
-- Treino e corrida, na linha *hybrid athlete programmer* 🏃‍♂️
-
----
-
 ### 📫 Contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-veronez-449136270)
